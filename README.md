@@ -1,5 +1,6 @@
-fir of all install virtual env "pip install virtualenv"
+first of all install virtual env "pip install virtualenv"
 make a folder name "flask" on desktop
+now uncompress all repositroy file in "flask" folder
 open cmd in "flask" folder
 run this command "virtualenv venv"
 and run in that cmd this command "venv/bin/activate"
